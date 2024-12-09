@@ -1,0 +1,48 @@
+.antarctic-color {
+    color: grey;
+}
+
+.africa-color {
+    color: blue;
+}
+
+.asia-color {
+    color: indianred;
+}
+
+.europe-color {
+    color: orange;
+}
+
+.oceania-color {
+    color: purple;
+}
+
+.north-america-color {
+    color: darkgreen;
+}
+
+.south-america-color {
+    color: lightgreen;
+}
+
+h1, h2 {
+    display: flex;
+    text-align: center;
+}
+
+.section {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background-color: whitesmoke;
+
+}
+ul.item-list {
+    list-style-type: none;
+    column-count: 3;
+}
+
+.flag {
+    padding-right: 10px;
+}

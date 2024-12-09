@@ -49,7 +49,7 @@ knop drukt.
     1. De naam van het land
     2. De vlag van dat land
     3. De zin: `Has a population of [amount] people`
-* Je zorgt dat de landen worden gesorteert op populatie, van laag naar hoog;
+* Je zorgt dat de landen worden gesorteerd op populatie, van laag naar hoog;
 * De land-namen moeten worden weergegeven in een kleur die overeenkomt met het continent waar het land in ligt. _Tip_:
   maak hier een helper-functie voor die een regio-naam verwacht en bepaalt welke kleur het land moet krijgen. Een land
   ligt meestal in één van de volgende vijf regio's, maar uitzonderingen kunnen voorkomen:
